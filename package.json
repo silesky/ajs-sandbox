@@ -1,11 +1,10 @@
 {
   "name": "ajs-sandbox",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "ajs sandbox",
+  "main": "index.html",
   "scripts": {
     "dev": "live-server . --browser",
-    "start": "npm run dev",
     "build": "echo 'build'"
   },
   "author": "",
