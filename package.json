@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "live-server . --browser",
-    "build": ""
+    "build": "echo 'build'"
   },
   "author": "",
   "license": "ISC",
